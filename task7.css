@@ -1,0 +1,43 @@
+#id1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: lightblue;
+}
+
+#id2 a{
+    display: block;
+    color: blue;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+#id2 a:hover {
+    background-color: rgba(241, 179, 21, 0.748);
+    color: rgb(75, 7, 247);
+}
+
+#id3{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(210, 199, 199);
+}
+
+#id4{
+    float: left;
+}
+
+#id4 a{
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#id4 a:hover {
+    background-color: #828282;
+  }
